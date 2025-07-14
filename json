@@ -10,3 +10,15 @@
     "number_of_customers": 35
   }
 }
+#خروجی
+{
+  "profit": 400,
+  "profit_status": "positive",
+  "alerts": [
+    "CAC increased by 22.8%"
+  ],
+  "recommendations": [
+    "Review marketing campaigns due to significant CAC increase",
+    "Consider increasing advertising budget as sales are growing"
+  ]
+}
